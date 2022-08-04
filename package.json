@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-htmx-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch:tw": "npx tailwindcss -i ./src/input.css -o site.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PDMLab/tailwind-htmx-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PDMLab/tailwind-htmx-template/issues"
+  },
+  "homepage": "https://github.com/PDMLab/tailwind-htmx-template#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.7"
+  }
+}
